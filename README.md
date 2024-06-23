@@ -1,7 +1,7 @@
 <h3 align="center">Hi, This is Het Bhalani</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetbhalani&label=Profile%20views&color=0e75b6&style=flat" alt="hetbhalani" /> </p>
-<img  width="370px"  align="right" src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<img  width="370px" height="220px" align="right" src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/het bhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="het bhalani" height="30" width="40" /></a>
