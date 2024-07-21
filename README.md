@@ -44,4 +44,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&locale=en" alt="hetbhalani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetbhalani&" alt="hetbhalani" /></p>
+<br>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
