@@ -3,7 +3,8 @@
   
  <img align="left" src="https://komarev.com/ghpvc/?username=hetbhalani&label=Profile%20views&color=blueviolet&style=flat" alt="hetbhalani" /> 
  <br>
-<img  width="370px" height="220px" align="right" src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+
+<img  width="450px" height="300px" align="right" src="./modern-colorful-made-vector-18715426.jpg">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
