@@ -4,7 +4,7 @@
  <img align="left" src="https://komarev.com/ghpvc/?username=hetbhalani&label=Profile%20views&color=blueviolet&style=flat" alt="hetbhalani" /> 
  <br>
 
-<img  width="450px" height="300px" align="right" src="./modern-colorful-made-vector-18715426.jpg">
+<img  width="400px" height="250px" align="right" src="./imgs/modern-colorful-made-vector-18715426.jpg">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
