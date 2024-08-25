@@ -4,8 +4,8 @@
  <img align="left" src="https://komarev.com/ghpvc/?username=hetbhalani&label=Profile%20views&color=blueviolet&style=flat" alt="hetbhalani" /> 
  <br>
 
-<img  width="300px" height="250px" align="right" src="./imgs/artificial-intelligence-robot-point-vector-43479788-removebg-preview.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<img  width="300px" height="250px" align="left" src="./imgs/artificial-intelligence-robot-point-vector-43479788-removebg-preview.png">
+<link rel="stylesheet" align="left" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
 - 🌱 I’m currently learning **DSA and Python**
@@ -13,7 +13,7 @@
 - 📫 How to reach me **bhalanihet2006@gmail.com**
 
 - ⚡ Fun fact **I AM BATMAN🦇**
-<br>
+<br><br><br><br><br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/bhalani_he11233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhalani_he11233" height="30" width="40" /></a>
