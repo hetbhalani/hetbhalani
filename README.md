@@ -1,4 +1,4 @@
-<h3 align="center">Hi, This is Het Bhalani</h3>
+<h3 align="center">Hi, This is Het Bhalani :wave: </h3>
 <br>
   
  <img align="left" src="https://komarev.com/ghpvc/?username=hetbhalani&label=Profile%20views&color=blueviolet&style=flat" alt="hetbhalani" /> 
