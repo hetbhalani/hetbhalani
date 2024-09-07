@@ -23,7 +23,6 @@
 <a href="https://linkedin.com/in/het bhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="het bhalani" height="30" width="40" /></a>
 <a href="https://instagram.com/het_bhalani__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="het_bhalani__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/het_bhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="het_bhalani" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@bhalanihet2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bhalanihet2006" height="30" width="40" /></a>
 </p>
 
 <br>
