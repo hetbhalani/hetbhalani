@@ -1,5 +1,7 @@
 <h3 align="center">Hi, This is Het Bhalani :wave: </h3>
 <br>
+
+![Banner](https://github.com/hetbhalani/hetbhalani/blob/main/imgs/github-header-image.png?raw=true)
   
  <img align="left" src="https://komarev.com/ghpvc/?username=hetbhalani&label=Profile%20views&color=blueviolet&style=flat" alt="hetbhalani" /> 
  <br>
