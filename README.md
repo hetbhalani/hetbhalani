@@ -13,11 +13,11 @@
 <link rel="stylesheet" align="left" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
-- 🌱 I’m currently learning **DSA and Python**
+- 🌱 I’m currently learning **Python and Machine-Leaarning**
 
 - 📫 How to reach me **bhalanihet2006@gmail.com**
 
-- ⚡ Fun fact **I AM BATMAN🦇**
+- ⚡ Fun fact **You can breathe!**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,7 +66,7 @@
   <img src="imgs/mat.png" height="40" alt="matplotlib logo"  />
    <img width="12" />
   <img src="imgs/sns.png" height="40" alt="matplotlib logo"  />
-   <img width="12" />
+   <img width="15" />
   <img src="imgs/pandas.png" height="40" alt="matplotlib logo"  />
    <img width="12" />
   <img src="imgs/jupyter.png" height="40" alt="matplotlib logo"  />
