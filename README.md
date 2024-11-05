@@ -67,6 +67,8 @@
   <img src="imgs/sns.png" height="40" alt="matplotlib logo"  />
    <img width="12" />
   <img src="imgs/pandas.png" height="40" alt="matplotlib logo"  />
+   <img width="12" />
+  <img src="imgs/jupyter.png" height="40" alt="matplotlib logo"  />
  
 
 </div>
