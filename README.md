@@ -80,8 +80,11 @@
 
 ### 📊 GitHub Stats:
 
-![github stats](https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9)
-![streak](https://streak-stats.demolab.com?user=hetbhalani&theme=dark&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=9B59B6&dates=C9D1D9&sideNums=9B59B6&fire=9B59B6&ring=9B59B6&stroke=FFFFFF)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=hetbhalani&theme=dark&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=9B59B6&dates=C9D1D9&sideNums=9B59B6&fire=9B59B6&ring=9B59B6&stroke=FFFFFF" alt="GitHub Streak" />
+</div>
+
 
 <br>
 
