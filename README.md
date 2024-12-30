@@ -13,23 +13,19 @@
 <link rel="stylesheet" align="left" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
-- 🌱 I’m currently learning **Python and Machine-Leaarning**
-
+- 🌱 I’m currently learning **Python and Machine-Learning**
+- 💡 I’m a **Machine Learning enthusiast** working on integrating AI into real-world applications
+- 🔭 **love to explore math, physics and stay updated with AI field**
+- ⚡ Fun fact **I love to learn something new everyday**
 - 📫 How to reach me **bhalanihet2006@gmail.com**
-
-- ⚡ Fun fact **You can breathe!**
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/bhalani_he11233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhalani_he11233" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/het bhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="het bhalani" height="30" width="40" /></a>
-<a href="https://instagram.com/het_bhalani__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="het_bhalani__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/het_bhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="het_bhalani" height="30" width="40" /></a>
-</p>
 
-<br>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -74,17 +70,12 @@
 
 </div>
 <br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hetbhalani&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
+<br>
+<div style="display: flex; justify-content: space-between;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetbhalani&theme=github_dark" alt="Profile Details" />
 </div>
 
 <br>
-
+<br>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
