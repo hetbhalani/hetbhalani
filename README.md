@@ -14,7 +14,7 @@
 
 
 - 🌱 I’m currently learning **Python and Machine-Learning**
-- 💡 I’m a **Machine Learning enthusiast** working on integrating AI into real-world applications
+- 💡 I’m a **Machine Learning enthusiast** love to integrating AI into real-world applications
 - 🔭 **love to explore math, physics and stay updated with AI field**
 - ⚡ Fun fact **I love to learn something new everyday**
 - 📫 How to reach me **bhalanihet2006@gmail.com**
