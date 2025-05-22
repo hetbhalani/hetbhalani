@@ -25,63 +25,35 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-plain.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-   <img width="12" />
-  <img src="imgs/mat.png" height="40" alt="matplotlib logo"  />
-   <img width="12" />
-  <img src="imgs/sns.png" height="40" alt="matplotlib logo"  />
-   <img width="15" />
-  <img src="imgs/pandas.png" height="40" alt="matplotlib logo"  />
-   <img width="12" />
-  <img src="imgs/jupyter.png" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
- 
+
+  
+### 📊 Machine Learning & Data Science
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)
+<img width="" />
+<img src="imgs/np-2.svg" height="50" alt="matplotlib logo"  />
+<img width="" />
+<img src="imgs/plt-2.svg" height="50" alt="matplotlib logo"  />
+<img width="" />
+<img src="imgs/pd-2.svg" height="50" alt="matplotlib logo"  />
+   
+
+### 🌐 Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,express,nodejs,tailwind,bootstrap)](https://skillicons.dev)
+
+### 🖥️ Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,dart,py)](https://skillicons.dev)
+
+### 🛢️ Databases & Tools
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite,postman)](https://skillicons.dev)
+
+### 📱 App Development
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+
+### ⚙️ Environments, Tools & Version Control
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,linux,windows)](https://skillicons.dev)
 
 </div>
 <br>
