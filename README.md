@@ -12,11 +12,15 @@
 
 ### Hi there, I'm Het,  👋
 
+I'm currently learning more about Transformers, MLOps, and NLP. Also, I'm actively learning new things and applying in the real world projects. You can know about me through my [Resume](https://drive.google.com/file/d/1CnsgxPq8CeDD75qWY4NAi31KotTsAzc6/view?usp=sharing)
+
+### What I'm Doing:
 - 🌱 Currently learning **NLP & Transformers**  
 - 💡 ML/DL enthusiast who loves integrating AI into **real-world applications**  
 - 🔭 Love **math** and stay updated with the **latest AI research**  
 - ⚡ Fun fact: I love experimenting
 - 📫 Reach me at **bhalanihet2006@gmail.com**
+- 📄 My Resume
 
 <br>
 
