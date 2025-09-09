@@ -20,7 +20,6 @@ I'm currently learning more about Transformers, MLOps, and NLP. Also, I'm active
 - 🔭 Love **math** and stay updated with the **latest AI research**  
 - ⚡ Fun fact: I love experimenting
 - 📫 Reach me at **bhalanihet2006@gmail.com**
-- 📄 My Resume
 
 <br>
 
