@@ -12,7 +12,7 @@
 
 ### Hi there, I'm Het,  👋
 
-I'm currently learning more about Transformers, MLOps, and NLP. Also, I'm actively learning new things and applying in the real world projects. You can know about me through my [Resume](https://drive.google.com/file/d/1CnsgxPq8CeDD75qWY4NAi31KotTsAzc6/view?usp=sharing)
+I'm currently learning more about **Transformers, NLP, and MLOps**. Also, I'm actively learning new things and applying in the real world projects. You can know about me through my [Resume](https://drive.google.com/file/d/1SOu2SZYA871z5jeLJp26pd3UjtB6uhH5/view?usp=sharing)
 
 ### What I'm Doing:
 - 🌱 Currently learning **NLP & Transformers**  
@@ -22,7 +22,6 @@ I'm currently learning more about Transformers, MLOps, and NLP. Also, I'm active
 - 📫 Reach me at **bhalanihet2006@gmail.com**
 
 <br>
-
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
@@ -59,13 +58,45 @@ I'm currently learning more about Transformers, MLOps, and NLP. Also, I'm active
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash,linux,windows,discord,)](https://skillicons.dev)
 
 </div>
-<br>
-<br>
-<div style="display: flex; justify-content: space-between;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetbhalani&theme=github_dark" alt="Profile Details" />
-</div>
 
-<br>
-<br>
+---
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+## 🤝 Connect with Me (I am everywhere)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/het-bhalani-20403b2a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://x.com/het_bhalani" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  
+  <a href="https://www.reddit.com/user/Logical_Proposal_105/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  
+  <a href="https://discord.gg/yngNJfq4" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  
+  <a href="https://www.kaggle.com/hetbhalani9" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  
+  <a href="https://huggingface.co/hetbhalani" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FEA20D?style=for-the-badge&logo=huggingface&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/het_bhalani__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://dev.to/het_bhalani" target="_blank">
+    <img src="https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=dev&logoColor=white" />
+  </a>
+  
+  <a href="mailto:bhalanihet2006@gmai.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
