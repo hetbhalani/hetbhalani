@@ -71,11 +71,7 @@ I'm currently learning more about **Transformers, NLP, and MLOps**. Also, I'm ac
   <a href="https://x.com/het_bhalani" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  
-  <a href="https://www.reddit.com/user/Logical_Proposal_105/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  
+
   <a href="https://discord.gg/yngNJfq4" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
