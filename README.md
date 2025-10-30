@@ -12,6 +12,10 @@
   <a href="https://drive.google.com/file/d/1SOu2SZYA871z5jeLJp26pd3UjtB6uhH5/view?usp=sharing" target="_blank">
     <b>Resume</b>
   </a>
+  and 
+<a href="https://het-bhalani.netlify.app" target="_blank">
+  <b>Portfolio</b>
+</a>.
 </p>
 
 ---
