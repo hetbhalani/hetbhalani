@@ -33,7 +33,7 @@
 ---
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
 </div>
 
 ### 🌐 Connect With Me
