@@ -1,42 +1,55 @@
 ![Banner](https://github.com/hetbhalani/hetbhalani/blob/main/imgs/github-header-image.png?raw=true)
 
-<h1 align="center">Hey, I'm <b>Het Bhalani</b> 👋</h1>
+<h1 align="center">Hi, I’m Het Bhalani</h1>
 
 <p align="center">
-  <b>Self-taught ML/DL/NLP Engineer</b>  
+  <strong>AI Engineer | Transformers, LLM Fine-Tuning & Generative AI</strong>
 </p>
 
 <p align="center">
-  I love building intelligent systems, exploring deep learning architectures, and connecting technology with creativity.  
-  Currently diving deep into <b>Transformers, NLP, and MLOps</b> and applying what I learn to real-world projects. More about me in my 
-  <a href="https://drive.google.com/file/d/1SOu2SZYA871z5jeLJp26pd3UjtB6uhH5/view?usp=sharing" target="_blank">
-    <b>Resume</b>
-  </a>
-  and 
-<a href="https://het-bhalani.netlify.app" target="_blank">
-  <b>Portfolio</b>
-</a>.
+  I build practical AI systems with a strong focus on <strong>machine learning fundamentals, transformers, and applied AI</strong>.  
+  Currently working on model fine-tuning, real-world AI projects, and deployment workflows.
+</strong>
+  <br /><br />
+  <a href="https://drive.google.com/file/d/1SOu2SZYA871z5jeLJp26pd3UjtB6uhH5/view?usp=sharing" target="_blank"><strong>Resume</strong></a>
+  ·
+  <a href="https://het-bhalani.netlify.app" target="_blank"><strong>Portfolio</strong></a>
 </p>
 
 ---
 
-<img  width="300px" height="250px" align="right" src="./imgs/artificial-intelligence-robot-point-vector-43479788-removebg-preview.png">
+<img align="right" width="280" src="./imgs/artificial-intelligence-robot-point-vector-43479788-removebg-preview.png">
 
-### 🚀 About Me
+### About Me
 
-- 🧠 Always learning something new, currently **GenAI, Finetuning & MLOps**
-- 🤖 Passionate about building **AI-driven applications**
-- 🔭 Love **math** and stay updated with the **latest AI research**  
-- ⚡ Fun fact: I love experimenting
-- 📫 Reach me: **bhalanihet2006@gmail.com**
+- Focused on building **end-to-end AI applications**, not just models  
+- Experience with **Transformers, fine-tuning OSS models & Generative AI** and deploying them
+- Actively learning **MLOps, evaluation, and scalable inference**
+- Enjoy working close to the **math and fundamentals** behind AI systems
+
+📫 **Contact:** bhalanihet2006@gmail.com
 
 ---
 
-<div align="right">
+### Current Focus
+
+- Transformer-based AI systems  
+- Fine-tuning strategies (LoRA, QLoRA, instruction tuning)    
+- Practical GenAI use-cases (RAG, Tools)  
+- Deployment with FastAPI & Hugging Face Spaces  
+
+---
+
+### GitHub Activity
+
+<div align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
 </div>
 
-### 🌐 Connect With Me
+
+---
+
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/het-bhalani-20403b2a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -48,9 +61,4 @@
 
 ---
 
-### 🧩 I don’t limit myself to one thing, I love exploring everything.
-
-> “AI, music, math, philosophy, games and cinema all are forms of patterns waiting to be understood.”
-
----
-
+> Continuously learning and applying modern AI techniques through hands-on projects
