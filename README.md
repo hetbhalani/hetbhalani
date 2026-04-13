@@ -11,7 +11,7 @@
   Currently working on model fine-tuning, real-world AI projects, and deployment workflows.
 </strong>
   <br /><br />
-  <a href="https://drive.google.com/file/d/1SOu2SZYA871z5jeLJp26pd3UjtB6uhH5/view?usp=sharing" target="_blank"><strong>Resume</strong></a>
+  <a href="https://github.com/hetbhalani/resume/blob/main/Het_Bhalani_Resume.pdf" target="_blank"><strong>Resume</strong></a>
   ·
   <a href="https://het-bhalani.netlify.app" target="_blank"><strong>Portfolio</strong></a>
 </p>
