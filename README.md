@@ -22,21 +22,23 @@
 
 ### About Me
 
-- Focused on building **end-to-end AI applications**, not just models  
-- Experience with **Transformers, fine-tuning OSS models & Generative AI** and deploying them
-- Actively learning **MLOps, evaluation, and scalable inference**
-- Enjoy working close to the **math and fundamentals** behind AI systems
-
+- B.Tech CS (6th Sem) · Darshan University, Rajkot
+- Building **end-to-end AI systems** - not just models, full pipelines
+- Deep experience with **Transformers, LoRA/QLoRA fine-tuning & GenAI**
+- Actively working on **MLOps, prompt evaluation & scalable inference**
+- Enjoy lerning by making things
+  
 📫 **Contact:** bhalanihet2006@gmail.com
 
 ---
 
 ### Current Focus
 
-- Transformer-based AI systems  
-- Fine-tuning strategies (LoRA, QLoRA, instruction tuning)    
-- Practical GenAI use-cases (RAG, Tools)  
-- Deployment with FastAPI & Hugging Face Spaces  
+- Fine-tuning strategies - LoRA, QLoRA, instruction tuning
+- Agentic AI systems with **LangGraph** (RAG, Tools, multi-step reasoning)
+- Model deployment - **llama.cpp**, GGUF quantization, HF Spaces, FastAPI
+- Prompt evaluation with **DeepEval**, Langfuse, and Promptfoo
+- Cloud infra for AI - **AWS S3 & EC2**, Docker, **GitHub Actions CI/CD**
 
 ---
 
